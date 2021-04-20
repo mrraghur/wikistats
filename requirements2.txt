@@ -84,7 +84,7 @@ ply==3.8
 prompt-toolkit==1.0.15
 psycopg2==2.6.2
 ptyprocess==0.6.0
-py==1.4.34
+py==1.10.0
 py4j==0.10.4
 pyasn1==0.3.3
 pyasn1-modules==0.1.1
