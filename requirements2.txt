@@ -105,7 +105,7 @@ python-jwt==2.0.1
 pytz==2017.2
 requests==2.17.3
 requests-toolbelt==0.7.0
-rsa==3.4.2
+rsa==4.7
 scandir==1.9.0
 scikit-learn==0.18.1
 scipy==0.19.1
