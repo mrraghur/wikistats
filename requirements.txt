@@ -1,5 +1,5 @@
 beautifulsoup4==4.6.0
-Django==1.9
+Django==2.2.24
 django-tinymce==2.3.0
 filelock==2.0.11
 futures==3.0.4
