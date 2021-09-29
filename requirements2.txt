@@ -69,7 +69,7 @@ matplotlib==2.1.0
 mccabe==0.6.1
 mediawiki==0.0.1
 mock==2.0.0
-nltk==3.2.5
+nltk==3.6.3
 numpy==1.13.1
 oauth2client==3.0.0
 olefile==0.44
